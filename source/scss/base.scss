@@ -1,0 +1,20 @@
+@use 'variables' as v;
+
+body {
+    background-color: v.$bg-color;
+    font-family: v.$font-family;
+}
+
+.menu li a {
+    color: v.$menu-link-color;
+    text-decoration: none;
+}
+
+.product-button {
+    background-color: v.$product-button-color;
+    
+}
+.product-button:hover {
+    background-color: v.$product-button-hover-color;
+}
+

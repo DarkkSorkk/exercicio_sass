@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body {
+  background-color: #f5f6fa;
+  font-family: Roboto, sans-serif;
+}
+
+
+.menu li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+
+.product-button {
+  background-color: #44bd32;
+
+}
+
+.product-button:hover {
+  background-color: #4cd137;
+}
+
+
+
+
